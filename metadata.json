@@ -1,0 +1,5 @@
+{
+  "name": "RectDraw - Professional Rectangle Creator",
+  "description": "A high-performance React application to precisely draw and customize rectangles based on numerical inputs, featuring real-time preview and modern UI.",
+  "requestFramePermissions": []
+}
